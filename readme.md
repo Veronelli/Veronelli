@@ -1,9 +1,13 @@
+<h1>Facundo Veronelli <spam>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+[![GitHub followers](https://img.shields.io/github/followers/Veronelli?style=social)](https://github.com/Veronelli) [![Square](https://img.shields.io/badge/linked-in-369?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/facundoveronelli/) [![Square](https://img.shields.io/badge/chat-email-369?style=flat&logo=gmail&logoColor=white&color=blue&label=.facuveronelli.com)](mailto://contacto@facuveronelli.com)
+
+</spam></h1>
+
+
 
 ```
-
-🏢:  Software Development Engineer and Blockchain.
-🐙:  https://github.com/johnpc
-💼:  https://linkedin.com/in/johncorser
+    💻: Java, Javascript, Go, Soldity
 ```
+
+
