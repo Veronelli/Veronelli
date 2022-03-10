@@ -1,6 +1,9 @@
-<h1>Facundo Veronelli</h1>
-<style>
-    h1{
-        color:red;
-    }
-</style>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+```
+
+🏢:  Software Development Engineer and Blockchain.
+🐙:  https://github.com/johnpc
+💼:  https://linkedin.com/in/johncorser
+```
