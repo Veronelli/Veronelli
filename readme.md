@@ -216,9 +216,30 @@ La demostración explora la utilización de inteligencia artificial para facilit
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Veronelli&show_icons=true&hide_border=true&theme=transparent&locale=es" alt="Estadísticas de GitHub de Facundo Veronelli" />
+<a href="https://github.com/Veronelli">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Veronelli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&locale=es"
+    alt="Estadísticas de GitHub de Facundo Veronelli"
+  />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronelli&layout=compact&hide_border=true&theme=transparent&locale=es" alt="Lenguajes utilizados por Facundo Veronelli" />
+<a href="https://github.com/Veronelli">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronelli&layout=compact&langs_count=8&hide_border=true&theme=github_dark&locale=es"
+    alt="Lenguajes más utilizados por Facundo Veronelli"
+  />
+</a>
+
+<br />
+
+<a href="https://github.com/Veronelli">
+  <img
+    src="https://streak-stats.demolab.com?user=Veronelli&theme=github-dark-blue&hide_border=true&locale=es"
+    alt="Racha de contribuciones de Facundo Veronelli"
+  />
+</a>
 
 </div>
 
