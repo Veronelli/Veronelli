@@ -66,7 +66,7 @@ A diferencia de una plataforma tradicional, la información de los paquetes tur�
 - Visualización de información detallada de hoteles, servicios y paquetes.
 - Comparación de distintas alternativas de viaje.
 - Formulario de contacto para solicitar información sobre un paquete específico.
-- Envío automático de consultas por correo electrónico al equipo comercial utilizando **PHP Vanilla**, sin depender de frameworks externos.
+- Envío automático de consultas por correo electrónico al equipo comercial
 - Integración con el proceso comercial para que los asesores continúen la gestión de la operación con el cliente.
 
 #### Arquitectura
