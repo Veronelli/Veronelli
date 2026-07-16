@@ -43,6 +43,7 @@ Actualmente trabajo principalmente con:
 <img src="assets/facundo-veronelli-banner.png" width="100%" alt="Portfolio de proyectos de Facundo Veronelli" />
 
 </div>
+
 ---
 
 ## 🚀 Proyectos destacados
