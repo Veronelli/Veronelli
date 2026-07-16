@@ -211,37 +211,22 @@ La demostración explora la utilización de inteligencia artificial para facilit
 </div>
 
 ---
-
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
+### 📈 Estadísticas generales
 
-<a href="https://github.com/Veronelli">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Veronelli&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&locale=es"
-    alt="Estadísticas de GitHub de Facundo Veronelli"
-  />
-</a>
+> Resumen de mi actividad pública en GitHub, incluyendo commits, pull requests, repositorios y seguidores.
 
-<a href="https://github.com/Veronelli">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronelli&layout=compact&langs_count=8&hide_border=true&theme=github_dark&locale=es"
-    alt="Lenguajes más utilizados por Facundo Veronelli"
-  />
-</a>
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?cardType=main&showBorder=true&theme=github_dark&username=Veronelli)](https://github.com/Veronelli)
 
-<br />
+---
 
-<a href="https://github.com/Veronelli">
-  <img
-    src="https://streak-stats.demolab.com?user=Veronelli&theme=github-dark-blue&hide_border=true&locale=es"
-    alt="Racha de contribuciones de Facundo Veronelli"
-  />
-</a>
+### 💻 Lenguajes más utilizados
 
-</div>
+> Distribución de los lenguajes utilizados en mis repositorios públicos.
+
+[![Top Languages](https://www.readmecodegen.com/api/github-stats/svg?cardType=langs&showBorder=true&theme=github_dark&username=Veronelli)](https://github.com/Veronelli)
+
 
 ---
 
