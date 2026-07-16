@@ -42,11 +42,6 @@ Actualmente trabajo principalmente con:
 
 <img src="assets/facundo-veronelli-banner.png" width="100%" alt="Portfolio de proyectos de Facundo Veronelli" />
 
-<sub>
-Imagen de presentación creada con
-<a href="https://myogimage.com">MyOGImage</a>.
-</sub>
-
 </div>
 
 > Para mostrar esta imagen, generá una portada de `1200 × 630 px` en MyOGImage, descargala y guardala en el repositorio como `assets/facundo-veronelli-banner.png`.
